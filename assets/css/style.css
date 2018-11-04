@@ -1,0 +1,24 @@
+.background{
+    background-image: url("../images/trainbackground.png");
+    background-repeat: round;
+    
+}
+
+h1{
+    text-align: start;
+    font-family: 'Pacifico', cursive;
+    color:navy;
+}
+
+.panel{
+    color: navy;
+}
+
+
+body{
+    background-color: azure;
+}
+
+.btn{
+    background-color: navy;
+}
